@@ -1,2 +1,3 @@
 # cr2gllm-po
-Official code of our paper - &lt;Title>
+
+The code will be made publicly available after the acceptance of the paper.
